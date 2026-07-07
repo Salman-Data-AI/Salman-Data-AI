@@ -1,6 +1,6 @@
 # Hi, I'm Salman Khan 👋
 
-Data Solutions Leader | AI & Data Solutions | Python | PySpark | Snowflake | Databricks | SQL | Data Modeling
+Data & AI Solutions Leader | AI & Data Solutions | Python | PySpark | Snowflake | Databricks | SQL | Data Modeling
 
 I build scalable data platforms and AI-powered applications with a focus on clean architecture, automation, and analytics. 
 
