@@ -1,10 +1,10 @@
 # Hi, I'm Salman Khan 👋
 
-Data & AI Solutions Leader | AI & Data Solutions | Python | PySpark | Snowflake | Databricks | SQL | Data Modeling
+Data & AI Solutions Leader | Data Engineering & Architecture | Cloud Analytics | AI/LLM Applications
 
 I build scalable data platforms and AI-powered applications with a focus on clean architecture, automation, and analytics. 
 
-My core expertise include Data Engineering, Data Architecture & Modeling, AI & LLM Applications, Cloud Analytics, Data Strategy & Solution Design.
+My core expertise includes data engineering, data architecture and modeling, AI/LLM applications, cloud analytics, data strategy, and solution design.
 
 ## 💻 Tech Stack
 
@@ -47,14 +47,14 @@ My core expertise include Data Engineering, Data Architecture & Modeling, AI & L
 
 ## 🚀 Featured Projects
 
-### Agentic AI DSS for Retail Investors
-An agentic AI decision support tool that evaluates stocks against your own plain-English investment rules and returns explainable BUY/SKIP/SELL/HOLD signals.
+### [Agentic AI DSS for Retail Investors](https://github.com/Salman-Data-AI/agentic-ai-dss-for-retail-investors)
+An AI decision-support tool that evaluates stocks against plain-English investment rules and returns explainable BUY/SKIP/SELL/HOLD signals.
 
-### Data Engineering
-Examples of ETL pipelines, data modeling, orchestration, and analytics engineering.
+### [Data Engineering Portfolio](https://github.com/Salman-Data-AI/Real-Time-Streaming-Data-Pipeline-with-AWS-Apache-NiFi-Snowflake)
+ETL, dimensional modeling, orchestration, and analytics engineering examples using Python, SQL, PySpark, and cloud data platforms.
 
-### Machine Learning & AI
-Examples of ML/AI projects that highlight various methods and techniques of implementation.
+### [ML & AI Experiments](https://github.com/Salman-Data-AI/Health-Insurance-Prediction-Using-Machine-Learning-Algorithms)
+Small ML/AI projects demonstrating model experimentation, explainability, and practical implementation patterns.
 
 ## 🌱 Currently Learning
 
