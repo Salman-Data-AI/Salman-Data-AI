@@ -4,7 +4,7 @@ Data Solutions Leader | AI & Data Solutions | Python | PySpark | Snowflake | Dat
 
 I build scalable data platforms and AI-powered applications with a focus on clean architecture, automation, and analytics. 
 
-My core expertise include Data Engineering, Data Architecture & Modeling, AI & LLM Applications, Cloud Analytics & Solution Design.
+My core expertise include Data Engineering, Data Architecture & Modeling, AI & LLM Applications, Cloud Analytics, Data Strategy & Solution Design.
 
 ## 💻 Tech Stack
 
@@ -18,6 +18,7 @@ My core expertise include Data Engineering, Data Architecture & Modeling, AI & L
 | Business Intelligence | Power BI, Streamlit |
 | AI | Machine Learning, LLMs |
 | Dev Tools | Git, GitHub Actions |
+| Data Strategy | Data Governance, Data Quality, Data Cataloguing, Master Data Management (MDM) |
 
 ![SQL](https://img.shields.io/badge/SQL-blue)
 ![Python](https://img.shields.io/badge/Python-blue)
@@ -39,6 +40,10 @@ My core expertise include Data Engineering, Data Architecture & Modeling, AI & L
 ![Streamlit](https://img.shields.io/badge/Streamlit-navy)
 ![Git](https://img.shields.io/badge/Git-violet)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-violet)
+![Data Governance](https://img.shields.io/badge/Data_Governance-olive)
+![Data Cataloguing](https://img.shields.io/badge/Data_Cataloguing-olive)
+![Data Quality](https://img.shields.io/badge/Data_Quality-olive)
+![Master Data Management (MDM)](https://img.shields.io/badge/Master_Data_Management_(MDM)-olive)
 
 ## 🚀 Featured Projects
 
