@@ -1,4 +1,4 @@
-# Hi, I'm Salman 👋
+# Hi, I'm Salman Khan 👋
 
 Data Solutions Leader | AI & Data Solutions | Python | PySpark | Snowflake | Databricks | SQL | Data Modeling
 
