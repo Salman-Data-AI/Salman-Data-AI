@@ -2,23 +2,43 @@
 
 Data Solutions Leader | AI & Data Solutions | Python | PySpark | Snowflake | Databricks | SQL | Data Modeling
 
-I build scalable data platforms and AI-powered applications with a focus on clean architecture, automation, and analytics.
+I build scalable data platforms and AI-powered applications with a focus on clean architecture, automation, and analytics. 
+
+My core expertise include Data Engineering, Data Architecture & Modeling, AI & LLM Applications, Cloud Analytics & Solution Design.
 
 ## 💻 Tech Stack
 
-- Python
-- SQL
-- Data Modeling
-- PySpark
-- Snowflake
-- Databricks
-- Azure
-- Git
-- GitHub Actions
-- Power BI
-- AWS
-- Machine Learning
-- Large Language Models (LLM)
+| Category | Technologies |
+|----------|--------------|
+| Languages | Python, SQL |
+| Data Engineering | PySpark, Snowflake, Databricks, Informatica |
+| Data Modeling | Kimball, Inmon, Data Vault, Data Mesh, Data Fabric |
+| Database | Oracle, Postgres, MySQL |
+| Cloud | Azure, AWS, OCI |
+| Business Intelligence | Power BI, Streamlit |
+| AI | Machine Learning, LLMs |
+| Dev Tools | Git, GitHub Actions |
+
+![SQL](https://img.shields.io/badge/SQL-blue)
+![Python](https://img.shields.io/badge/Python-blue)
+![PySpark](https://img.shields.io/badge/PySpark-green)
+![Snowflake](https://img.shields.io/badge/Snowflake-green)
+![Databricks](https://img.shields.io/badge/Databricks-green)
+![Informatica](https://img.shields.io/badge/Informatica-green)
+![Data Modeling](https://img.shields.io/badge/Data_Modeling-yellow)
+![Azure Cloud](https://img.shields.io/badge/Azure_Cloud-orange)
+![Amazon Web Services](https://img.shields.io/badge/Amazon_Web_Services-orange)
+![Oracle Cloud Infrastructure](https://img.shields.io/badge/Oracle_Cloud_Infrastructure-orange)
+![Large Language Models](https://img.shields.io/badge/Large_Language_Models-teal)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-teal)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-teal)
+![Oracle](https://img.shields.io/badge/Oracle-grey)
+![Postgres](https://img.shields.io/badge/Postgres-grey)
+![MySQL](https://img.shields.io/badge/MySQL-grey)
+![Power BI](https://img.shields.io/badge/Power_BI-navy)
+![Streamlit](https://img.shields.io/badge/Streamlit-navy)
+![Git](https://img.shields.io/badge/Git-violet)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-violet)
 
 ## 🚀 Featured Projects
 
